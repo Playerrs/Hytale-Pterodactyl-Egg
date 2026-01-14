@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2026-01-13T21:50:54-03:00",
+    "exported_at": "2026-01-13T21:55:42-03:00",
     "name": "Hytale Alpha",
     "author": "josueplayerrs@gmail.com",
     "description": null,
@@ -13,7 +13,7 @@
         "Java 25": "ghcr.io\/ptero-eggs\/yolks:java_25"
     },
     "file_denylist": [],
-    "startup": "java -Xms128M -XX:MaxRAMPercentage=95.0 -jar {{SERVER_JAR}} --assets {{GAME_ASSETS}} --bind 0.0.0.0:{{PORT}}",
+    "startup": ".\/start.sh",
     "config": {
         "files": "{}",
         "startup": "{\r\n    \"done\": \"Hytale Server Booted\"\r\n}",
