@@ -1,3 +1,7 @@
+
+> This project has been DISCONTINUED because a better and more well-made version exists by NATroutter. Follow the link.
+> https://github.com/NATroutter/egg-hytale/tree/main
+
 ---
 
 # 🧊 Hytale Dedicated Server – Pterodactyl Setup
